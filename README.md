@@ -9,7 +9,6 @@ Planejo não desistir enquanto não alcançar um bom desempenho nessa área e, p
 - Python  
 - HTML  
 - CSS  
-- Node.js  
 - Git e GitHub  
 
 <div align="center">
